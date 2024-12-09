@@ -6,6 +6,6 @@
  (version "0.1")
  (created 2024-12-08T17:00:18Z)
  (deprecated false)
- (url "https://github.com/dufguix/LibrePCB-ATmega")
+ (url "https://github.com/dufguix/ATmega.lplib")
  (manufacturer "")
 )
