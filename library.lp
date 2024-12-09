@@ -1,0 +1,11 @@
+(librepcb_library 81d1a56c-0e8f-4ad0-a8e6-266b8ef26d6c
+ (name "ATmega")
+ (description "")
+ (keywords "avr, atmel, atmega, 8bits")
+ (author "dufguix")
+ (version "0.1")
+ (created 2024-12-08T17:00:18Z)
+ (deprecated false)
+ (url "https://github.com/dufguix/LibrePCB-ATmega")
+ (manufacturer "")
+)
